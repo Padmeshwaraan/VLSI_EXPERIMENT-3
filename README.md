@@ -204,4 +204,4 @@ OUTPUT WAVEFORM:
  
 RESULT:
 
-		Thus, multiplier using Vivado are Implemented and simulated successfully.
+Thus, multiplier using Vivado are Implemented and simulated successfully.
